@@ -1,6 +1,6 @@
 # Foundations of Programming (FP)
 ## Bachelor of Computer Science & Engineering @ Instituto Superior Técnico
-1st Project, Palavra Guru
+Project, Palavra Guru
 <br><br>
 
 #### Language
